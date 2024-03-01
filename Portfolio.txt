@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durga - Developer Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: darkgray;
+            color: white;
+            font-family: 'Poppins', sans-serif;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 85px;
+            background-color: rgb(2, 15, 26);
+        }
+        nav ul {
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            list-style: none;
+            margin: 0 23px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+        }
+        nav ul li a :hover {
+            color: rgb(156, 156, 214);
+            font-size: 1.04rem;
+        }
+        main hr {
+            border: 0;
+            background-color: rgb(38, 36, 39);
+            height: 1.2px;
+            margin: 60px 84px;
+        }
+        .left {
+            font-size: 1.3rem;
+        }
+        .firstSection {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin: 130px 0;
+        }
+        .firstSection>div {
+            width: 70%;
+        }
+        .leftSection {
+            font-size: 4rem;
+        }
+        .leftSection .buttons {
+            padding: 50px 0;
+        }
+        .leftSection.btn {
+            padding: 12px;
+            background: purple;
+            color: white;
+            border: 2px solid white;
+            border-radius: 6px;
+            font-size: 20px;
+            cursor: pointer;
+        }
+        .rightSection {
+            width: 80%;
+        }
+        .purple {
+            color: red;
+        }
+        .text-gray {
+            color: rgb(242, 36, 208);
+        }
+        #element {
+            color: blueviolet;
+        }
+        .secondSection {
+            max-width: 80vw;
+            margin: auto;
+            height: 80vh;
+        }
+        .secondSection h1 {
+            font-size: 1.9rem;
+        }
+        .secondSection .box {
+            background-color: black;
+            width: 77vw;
+            height: 2px;
+            margin: 56px 0;
+            display: flex;
+        }
+        .secondSection .vertical {
+            height: 93px;
+            width: 1px;
+            background-color: black;
+            margin: 0 120px;
+        }
+        .image-top {
+            width: 23px;
+            position: relative;
+            top: -32px;
+            left: -9px;
+        }
+        .vertical-title {
+            position: relative;
+            top: 75px;
+            left: 0.8px;
+            font-size: 14px;
+        }
+        .vertical-desc {
+            position: relative;
+            top: 86px;
+            color: gray;
+            width: 150px;
+            font-size: 9px;
+        }
+        footer {
+            background-color: rgb(217, 132, 221);
+        }
+        .footer {
+            display: flex;
+            padding: 23px 122px;
+            justify-content: space-evenly;
+        }
+        .footer ul {
+            list-style: none;
+        }
+        .footer>div {
+            width: 223px;
+        }
+        footer.footer-rights {
+            text-align: center;
+            color: rgb(239, 14, 14);
+            padding: 12px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="left">Durgas Portfolio</div>
+            <div class="right">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/">About Me</a></li>
+                    <li><a href="/">Skills</a></li>
+                    <li><a href="/">Projects</a></li>
+                    <li><a href="/">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="firstSection">
+            <div class="leftSection">
+                Hi, My Name is <span class="purple">Durga</span>
+                <div> and I am a passionate</div>
+                <span id="element"></span>
+                <div class="buttons">
+                    <button class"btn">Download Resume</button>
+                    <button class="btn">Visit Github</button>
+                </div>
+            </div>
+            <div class="rightSection">
+                <img src="bg.png" alt="">
+            </div>
+        </section>
+        <hr>
+        <section class="secondSection">
+            <span class="text-gray"> What I have done so far</span>
+            <h1> All About Me </h1>
+            <div class="box">
+                <div class="vertical">
+                    <img class="image-top" src="Developer.png" alt="">
+                    <div class="vertical-title">
+                        About Myself
+                    </div>
+                    <div class="vertical-desc">
+                        My name is Mane Durga. And I'm going to share about me here...
+                        have completed my Primary schooling from Vimalabai Deshmukh Girls School Ahmedpur.
+                        I passed the 10th with 83.40%.Then after that I took the admission
+                        for the Diploma.I got the Government Residential Womens Polytechnic
+                        College Latur. I got the ENTC branch. I passed the
+                        Diploma With 83.18%. Then after that I took the admission for the
+                        engineering.I got Smt.Kashibai Navle College of Engineering Pune.
+                        I'M currently studying in 3rd of ENTC.I passed
+                        2nd year with the 7.16 SGPA.and 5th Sem of Third Year with 8.62 SGPA
+                    </div>
+                </div>
+                <div class="vertical">
+                    <img class="image-top" src="Skills.png" alt="">
+                    <div class="vertical-title">
+                        Skills
+                    </div>
+                    <div class="vertical-desc">
+                        HTML,CSS,JavaScript,Java,C,C++,Advance java,Multitasking,TeamWork,Self-Motivation,Public
+                        Speaking,Public Relations,Good Communication With Others,Patience.
+                    </div>
+                </div>
+                <div class="vertical">
+                    <img class="image-top" src="Project.png" alt="">
+                    <div class="vertical-title">
+                        Projects
+                    </div>
+                    <div class="vertical-desc">
+                        Touchless Watertap Using Arduino.-Touchless water tap is a new technology developed to prevent
+                        unnecessary water usage by preventing the water flow.This is also gaining popularity in large
+                        public crowded places such as malls and restaurants, where people share the tap allowing the
+                        transfer of germs and bacteria. So, the use of this type of taps and faucets is gaining
+                        popularity. A sensor detects the position of the hand or any other object and turns on and off a
+                        water pump on another side.
+                        Since the technology is relatively new, Buying this from the market is quite costly.We can use
+                        an Ultrasonic Sensor to detect the presence of the hand.
+                    </div>
+                </div>
+                <div class="vertical">
+                    <img class="image-top" src="Event.png" alt="">
+                    <div class="vertical-title">
+                        Event Application Project
+                    </div>
+                    <div class="vertical-desc">
+                        In Event Application we Created a Application which is based on Event. Which gives Information
+                        about Event, Event date, time, Venue. And if anyone is Interested then he or she can easily
+                        contact to that event Coordinator.
+                    </div>
+                </div>
+                <div class="vertical">
+                    <img class="image-top" src="Project.png" alt="">
+                    <div class="vertical-title">
+                        My Portfolio, Landing Page, Calculator Project
+                    </div>
+                    <div class="vertical-desc">
+                    </div>
+                </div>
+                <div class="vertical"></div>
+                <div class="vertical"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div class="footer-first">
+                <h3>Durgas Developer Portfolio</h3>
+            </div>
+            <div class="footer-second">
+                <ul>
+                    <li>About</li>
+                    <li>Email-id - durgamane2003@gmail.com</li>
+                    <li>Contact : 7218434125</li>
+                </ul>
+            </div>
+            <div class="footer-Third"></div>
+            <div class="footer-Fourth"></div>
+        </div>
+        </div>
+        <div class="footer-rights">
+            durgasportfolio.com | All rights reserved
+        </div>
+    </footer>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+            strings: ['Web Developer', 'Graphic Designer', 'Web Designer', 'Video Editor'],
+            typeSpeed: 50,
+        });
+    </script>
+</body>
+</html>
