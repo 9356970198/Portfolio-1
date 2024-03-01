@@ -1,0 +1,315 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/47man/OneDrive/Desktop/First%20Git%20Repository/Output%20Of%20Website/Durga%20-%20Developer%20Portfolio.html
+Subject: Durga - Developer Portfolio
+Date: Fri, 1 Mar 2024 17:23:23 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----"
+
+
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----
+Content-Type: text/html
+Content-ID: <frame-A851D26D3CD4407E1264B0CD65C39368@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/47man/OneDrive/Desktop/First%20Git%20Repository/Output%20Of%20Website/Durga%20-%20Developer%20Portfolio.html
+
+<!DOCTYPE html><!-- saved from url=3D(0093)file:///C:/Users/47man/OneDrive/=
+Desktop/First%20Git%20Repository/Portfolio%201%20website.html --><html lang=
+=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3e10=
+3d07-11cd-43a0-8c7c-6d4e594c27f4@mhtml.blink" /><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-e36e4f84-05c5-4c47-ab6f-5057afab6b19@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6f93929=
+f-e53d-4f17-b0d6-565efd4ca1ce@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Durga - Developer Portfolio</title>
+    <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigi=
+n=3D"">
+    <link href=3D"file:///C:/Users/47man/OneDrive/Desktop/First%20Git%20Rep=
+ository/Output%20Of%20Website/Durga%20-%20Developer%20Portfolio_files/css2"=
+ rel=3D"stylesheet">
+   =20
+</head>
+<body>
+    <header>
+        <nav>
+            <div class=3D"left">Durgas Portfolio</div>
+            <div class=3D"right">
+                <ul>
+                    <li><a href=3D"file:///C:/">Home</a></li>
+                    <li><a href=3D"file:///C:/">About Me</a></li>
+                    <li><a href=3D"file:///C:/">Skills</a></li>
+                    <li><a href=3D"file:///C:/">Projects</a></li>
+                    <li><a href=3D"file:///C:/">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class=3D"firstSection">
+            <div class=3D"leftSection">
+                Hi, My Name is <span class=3D"purple">Durga</span>
+                <div> and I am a passionate</div>
+                <span id=3D"element">Video Editor</span><span class=3D"type=
+d-cursor typed-cursor--blink" aria-hidden=3D"true">|</span><span class=3D"t=
+yped-cursor typed-cursor--blink" aria-hidden=3D"true">|</span>
+                <div class=3D"buttons">
+                    <button class"btn"=3D"">Download Resume</button>
+                    <button class=3D"btn">Visit Github</button>
+                </div>
+            </div>
+            <div class=3D"rightSection">
+                <img src=3D"file:///C:/Users/47man/OneDrive/Desktop/First%2=
+0Git%20Repository/bg.png" alt=3D"">
+            </div>
+        </section>
+        <hr>
+        <section class=3D"secondSection">
+            <span class=3D"text-gray"> What I have done so far</span>
+            <h1> All About Me </h1>
+            <div class=3D"box">
+                <div class=3D"vertical">
+                    <img class=3D"image-top" src=3D"file:///C:/Users/47man/=
+OneDrive/Desktop/First%20Git%20Repository/Developer.png" alt=3D"">
+                    <div class=3D"vertical-title">
+                        About Myself
+                    </div>
+                    <div class=3D"vertical-desc">
+                        My name is Mane Durga. And I'm going to share about=
+ me here...
+                        have completed my Primary schooling from Vimalabai =
+Deshmukh Girls School Ahmedpur.
+                        I passed the 10th with 83.40%.Then after that I too=
+k the admission
+                        for the Diploma.I got the Government Residential Wo=
+mens Polytechnic
+                        College Latur. I got the ENTC branch. I passed the
+                        Diploma With 83.18%. Then after that I took the adm=
+ission for the
+                        engineering.I got Smt.Kashibai Navle College of Eng=
+ineering Pune.
+                        I'M currently studying in 3rd of ENTC.I passed
+                        2nd year with the 7.16 SGPA.and 5th Sem of Third Ye=
+ar with 8.62 SGPA
+                    </div>
+                </div>
+                <div class=3D"vertical">
+                    <img class=3D"image-top" src=3D"file:///C:/Users/47man/=
+OneDrive/Desktop/First%20Git%20Repository/Skills.png" alt=3D"">
+                    <div class=3D"vertical-title">
+                        Skills
+                    </div>
+                    <div class=3D"vertical-desc">
+                        HTML,CSS,JavaScript,Java,C,C++,Advance java,Multita=
+sking,TeamWork,Self-Motivation,Public
+                        Speaking,Public Relations,Good Communication With O=
+thers,Patience.
+                    </div>
+                </div>
+                <div class=3D"vertical">
+                    <img class=3D"image-top" src=3D"file:///C:/Users/47man/=
+OneDrive/Desktop/First%20Git%20Repository/Project.png" alt=3D"">
+                    <div class=3D"vertical-title">
+                        Projects
+                    </div>
+                    <div class=3D"vertical-desc">
+                        Touchless Watertap Using Arduino.-Touchless water t=
+ap is a new technology developed to prevent
+                        unnecessary water usage by preventing the water flo=
+w.This is also gaining popularity in large
+                        public crowded places such as malls and restaurants=
+, where people share the tap allowing the
+                        transfer of germs and bacteria. So, the use of this=
+ type of taps and faucets is gaining
+                        popularity. A sensor detects the position of the ha=
+nd or any other object and turns on and off a
+                        water pump on another side.
+                        Since the technology is relatively new, Buying this=
+ from the market is quite costly.We can use
+                        an Ultrasonic Sensor to detect the presence of the =
+hand.
+                    </div>
+                </div>
+                <div class=3D"vertical">
+                    <img class=3D"image-top" src=3D"file:///C:/Users/47man/=
+OneDrive/Desktop/First%20Git%20Repository/Event.png" alt=3D"">
+                    <div class=3D"vertical-title">
+                        Event Application Project
+                    </div>
+                    <div class=3D"vertical-desc">
+                        In Event Application we Created a Application which=
+ is based on Event. Which gives Information
+                        about Event, Event date, time, Venue. And if anyone=
+ is Interested then he or she can easily
+                        contact to that event Coordinator.
+                    </div>
+                </div>
+                <div class=3D"vertical">
+                    <img class=3D"image-top" src=3D"file:///C:/Users/47man/=
+OneDrive/Desktop/First%20Git%20Repository/Project.png" alt=3D"">
+                    <div class=3D"vertical-title">
+                        My Portfolio, Landing Page, Calculator Project
+                    </div>
+                    <div class=3D"vertical-desc">
+                    </div>
+                </div>
+                <div class=3D"vertical"></div>
+                <div class=3D"vertical"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class=3D"footer">
+            <div class=3D"footer-first">
+                <h3>Durgas Developer Portfolio</h3>
+            </div>
+            <div class=3D"footer-second">
+                <ul>
+                    <li>About</li>
+                    <li>Email-id - durgamane2003@gmail.com</li>
+                    <li>Contact : 7218434125</li>
+                </ul>
+            </div>
+            <div class=3D"footer-Third"></div>
+            <div class=3D"footer-Fourth"></div>
+        </div>
+       =20
+        <div class=3D"footer-rights">
+            durgasportfolio.com | All rights reserved
+        </div>
+    </footer>
+   =20
+   =20
+
+</body></html>
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3e103d07-11cd-43a0-8c7c-6d4e594c27f4@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; }
+
+body { background-color: darkgray; color: white; font-family: Poppins, sans=
+-serif; }
+
+nav { display: flex; justify-content: space-around; align-items: center; he=
+ight: 85px; background-color: rgb(2, 15, 26); }
+
+nav ul { display: flex; justify-content: center; }
+
+nav ul li { list-style: none; margin: 0px 23px; }
+
+nav ul li a { text-decoration: none; color: white; }
+
+nav ul li a :hover { color: rgb(156, 156, 214); font-size: 1.04rem; }
+
+main hr { border: 0px; background-color: rgb(38, 36, 39); height: 1.2px; ma=
+rgin: 60px 84px; }
+
+.left { font-size: 1.3rem; }
+
+.firstSection { display: flex; justify-content: space-around; align-items: =
+center; margin: 130px 0px; }
+
+.firstSection > div { width: 70%; }
+
+.leftSection { font-size: 4rem; }
+
+.leftSection .buttons { padding: 50px 0px; }
+
+.leftSection.btn { padding: 12px; background: purple; color: white; border:=
+ 2px solid white; border-radius: 6px; font-size: 20px; cursor: pointer; }
+
+.rightSection { width: 80%; }
+
+.purple { color: red; }
+
+.text-gray { color: rgb(242, 36, 208); }
+
+#element { color: blueviolet; }
+
+.secondSection { max-width: 80vw; margin: auto; height: 80vh; }
+
+.secondSection h1 { font-size: 1.9rem; }
+
+.secondSection .box { background-color: black; width: 77vw; height: 2px; ma=
+rgin: 56px 0px; display: flex; }
+
+.secondSection .vertical { height: 93px; width: 1px; background-color: blac=
+k; margin: 0px 120px; }
+
+.image-top { width: 23px; position: relative; top: -32px; left: -9px; }
+
+.vertical-title { position: relative; top: 75px; left: 0.8px; font-size: 14=
+px; }
+
+.vertical-desc { position: relative; top: 86px; color: gray; width: 150px; =
+font-size: 9px; }
+
+footer { background-color: rgb(217, 132, 221); }
+
+.footer { display: flex; padding: 23px 122px; justify-content: space-evenly=
+; }
+
+.footer ul { list-style: none; }
+
+.footer > div { width: 223px; }
+
+footer.footer-rights { text-align: center; color: rgb(239, 14, 14); padding=
+: 12px 0px; }
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e36e4f84-05c5-4c47-ab6f-5057afab6b19@mhtml.blink
+
+@charset "utf-8";
+
+.typed-cursor { opacity: 1; }
+
+.typed-cursor.typed-cursor--blink { animation: 0.7s ease 0s infinite normal=
+ none running typedjsBlink; }
+
+@keyframes typedjsBlink {=20
+  50% { opacity: 0; }
+}
+
+@-webkit-keyframes typedjsBlink {=20
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6f93929f-e53d-4f17-b0d6-565efd4ca1ce@mhtml.blink
+
+@charset "utf-8";
+
+.typed-cursor { opacity: 1; }
+
+.typed-cursor.typed-cursor--blink { animation: 0.7s ease 0s infinite normal=
+ none running typedjsBlink; }
+
+@keyframes typedjsBlink {=20
+  50% { opacity: 0; }
+}
+
+@-webkit-keyframes typedjsBlink {=20
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/47man/OneDrive/Desktop/First%20Git%20Repository/Output%20Of%20Website/Durga%20-%20Developer%20Portfolio_files/css2
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--4FyKEqfP56gLUHblXx0usbZOE8HDw2PA0IB6PlGfLc------
